@@ -4,3 +4,4 @@
 <h2> Glad to see you here </h2>
 <h1> Running the test via Ansible playbook</h1>
 <h2> Ansible PlayBook </h2>
+<h3> Added ansible playbook to removed existing container and images</h3>
